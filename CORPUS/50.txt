@@ -1,0 +1,12 @@
+﻿URL: http://www.cubadebate.cu/noticias/2019/07/11/apple-desactiva-walkie-talkie-por-vulnerabilidades-detectadas/#.XSi4Z3bBDcc
+Título: Apple desactiva walkie-talkie por vulnerabilidades detectadas
+Agencia: Cubadebate
+Tema: Ciencia y Tecnología
+Periodista:
+Fecha de publicación: 11 julio 2019
+Contenido:
+La empresa, que aseguró no tener constancia de que nadie haya usado la vulnerabilidad para espiar conversaciones ajenas, pidió disculpas a los usuarios por las molestias causadas y prometió reactivar la función de walkie-talkie «tan pronto como sea posible».
+La aplicación de walkie-talkie fue añadida al reloj inteligente en septiembre pasado con el nuevo sistema operativo watchOS 5 y permite que dos usuarios que previamente hayan aceptado sendas invitaciones puedan enviar y recibir mensajes de voz al pulsar un botón para hablar, tal y como operan los walkie-talkies tradicionales.
+En enero, la firma que dirige Tim Cook también tuvo que desactivar temporalmente la función de llamadas de grupo en el iPhone mediante FaceTime (la modalidad que permite videoconferencias entre más de dos interlocutores) al haber detectado una vulnerabilidad similar en el software.
+El error hacía que cuando un usuario de iPhone llamaba a otras personas en el modo de grupo, este pudiese escuchar lo que se estaba diciendo antes de que los participantes en la conversación le aceptasen.
+En esa ocasión, fue un joven de 14 años de Arizona (EE.UU.) quien descubrió el error cuando llamó a unos amigos a través de FaceTime, tras lo cual su madre se puso en contacto con la empresa, y Apple tardó unos días hasta volver a activar el servicio en febrero.
