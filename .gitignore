@@ -1,1 +1,7 @@
 .ipynb_checkpoints
+corpus_doc
+corpus_vocab/key2row
+corpus_vocab/lexemes.bin
+corpus_vocab/lookups.bin
+corpus_vocab/strings.json
+corpus_vocab/vectors
